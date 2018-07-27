@@ -3,7 +3,7 @@ package test;
 public class newfile {
 
 
-	int a = 90;
+	int a = 100;
 
 	public void add() {
 		a = a + 78;
