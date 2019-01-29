@@ -5,7 +5,7 @@ public class test {
 	int a = 80;
 
 	public void add() {
-		a = a + 79;
+		a = a + 81;
 	}
 
 }
