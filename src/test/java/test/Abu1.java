@@ -6,9 +6,8 @@ public class test {
 
 	public void add() {
 
-		a = a + 80;
-		a = a + 5;	
-	
+		a = a + 85;
+		a = a + 5;		
 	}
 
 }
